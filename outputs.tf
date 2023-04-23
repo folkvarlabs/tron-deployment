@@ -1,5 +1,6 @@
-# Copyright (c) HashiCorp, Inc.
-# SPDX-License-Identifier: MPL-2.0
+// -------------- //
+// OUTPUTS CONFIG //
+// -------------- //
 
 output "instance_ami" {
   value = aws_instance.ubuntu.ami

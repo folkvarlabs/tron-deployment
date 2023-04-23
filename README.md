@@ -1,5 +1,7 @@
 # Terraform AWS EC2 Instance with Code-Server
 
+![alt text](assets/tron_ai_art.png)
+
 This Terraform configuration provisions an AWS EC2 instance with Code-Server installed. The instance is created using the specified Amazon Linux 2 AMI, and the security group allows SSH and HTTP traffic.
 
 ## Files
